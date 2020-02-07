@@ -1,3 +1,7 @@
 file 1
 edited
+<<<<<<< HEAD
 file 1 again modified
+=======
+modified in head detached state
+>>>>>>> firstbranch
