@@ -1,2 +1,3 @@
 file 1
 edited
+modified in head detached state
